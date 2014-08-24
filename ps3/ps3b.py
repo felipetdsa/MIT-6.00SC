@@ -7,8 +7,8 @@ from perm import *
 #
 # Problem #6A: Computer chooses a word
 #
-#hand = {'a':1, 'r':1, 't':1, 'h':1, 'i':1, 'm':1, 'e':1}
-#hand = {'w':1, 'i':1, 'z':1, 'a':1, 'r':1, 'd':1, 's':1}
+#Name: Felipe Trovão de Sá
+#Time: 2 hours
 
 
 def comp_choose_word(hand, word_list):
