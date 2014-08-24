@@ -7,6 +7,8 @@
 # Name: Felipe Trovão de Sá
 # Time: 3 hours 20 minutes
 #
+# Sugestions, CORRECTIONS and comments to felipetdsa@gmail.com
+#
 
 import random
 import string
