@@ -4,7 +4,7 @@
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
 # Problem Set 3a
-# Name: Felipe Trovão de Sá
+# Name: Felipe Trovao de Sa
 # Time: 3 hours 20 minutes
 #
 # Sugestions, CORRECTIONS and comments to felipetdsa@gmail.com
