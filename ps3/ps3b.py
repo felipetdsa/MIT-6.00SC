@@ -7,7 +7,7 @@ from perm import *
 #
 # Problem #6A: Computer chooses a word
 #
-#Name: Felipe Trovão de Sá
+#Name: Felipe Trovao de Sa
 #Time: 2 hours
 #
 #
