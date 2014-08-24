@@ -9,6 +9,10 @@ from perm import *
 #
 #Name: Felipe Trovão de Sá
 #Time: 2 hours
+#
+#
+# Sugestions, CORRECTIONS and comments to felipetdsa@gmail.com
+#
 
 
 def comp_choose_word(hand, word_list):
